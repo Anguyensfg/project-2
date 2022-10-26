@@ -1,0 +1,83 @@
+-- Create Two Tables
+
+-----------------------------------------------------------------------------------------------------
+
+-- Create  Table for CO2 Emission Per Capita
+CREATE TABLE CO2 Emission Per Capita (
+Country Name TEXT,
+Country Code TEXT PRIMARY KEY,
+1990 INT ,
+1991 INT ,
+1992 INT ,
+1993 INT ,
+1994 INT ,
+1995 INT ,
+1996 INT ,
+1997 INT ,
+1998 INT ,
+1999 INT ,
+2000 INT ,
+2001 INT ,
+2002 INT ,
+2003 INT ,
+2004 INT ,
+2005 INT ,
+2006 INT ,
+2007 INT ,
+2008 INT ,
+2009 INT ,
+2010 INT ,
+2011 INT ,
+2012 INT ,
+2013 INT ,
+2014 INT ,
+2015 INT ,
+2016 INT ,
+2017 INT ,
+2018 INT ,
+2019 INT ,
+2020 INT ,
+2021 INT ,
+);
+
+--------------------------------------------------------------------------------------------------------------------
+
+-- Create  Table for CO2 Emission Per Capita
+CREATE TABLE GDP Per Capita (
+Country Name TEXT,
+Country Code TEXT PRIMARY KEY,
+1990 INT ,
+1991 INT ,
+1992 INT ,
+1993 INT ,
+1994 INT ,
+1995 INT ,
+1996 INT ,
+1997 INT ,
+1998 INT ,
+1999 INT ,
+2000 INT ,
+2001 INT ,
+2002 INT ,
+2003 INT ,
+2004 INT ,
+2005 INT ,
+2006 INT ,
+2007 INT ,
+2008 INT ,
+2009 INT ,
+2010 INT ,
+2011 INT ,
+2012 INT ,
+2013 INT ,
+2014 INT ,
+2015 INT ,
+2016 INT ,
+2017 INT ,
+2018 INT ,
+2019 INT ,
+2020 INT ,
+2021 INT ,
+);
+
+----------------------------------------------------------------------------------------------------------------------------
