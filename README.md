@@ -47,6 +47,7 @@ Rename all column names to be more readable on joint tables
 
 Load -
 Run Scheme file on ProgresSQL to create tables to store PANDAS dataframe data
+Create SQL table with two decimal points (using .rounded) on float values
 Join two SQL tables to pair the values of GDP per Capita alongside CO2 Emission per Capita of same year via python code
 
 -----------------------------------------------------------------------------------------------------------------------------------------
