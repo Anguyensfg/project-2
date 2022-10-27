@@ -1,4 +1,5 @@
 # project-2
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 Project Title  - Analysis of GDP per Capita vs CO2 Emission Per Capita
@@ -62,4 +63,3 @@ Team Members
    Parvez Alam
    Kaushal Patel 
    Zitarashe Okot
-
